@@ -6,9 +6,6 @@ This is an Adventure Tourism Website
 The Adventure Tourism Website is a dynamic and visually appealing web application designed to showcase exciting adventure tourism activities and destinations. Built with HTML, CSS, and JavaScript, it features an engaging homepage, detailed sections on various adventure activities, a gallery of stunning images, and a responsive design for seamless viewing on both desktop and mobile devices. This project aims to inspire and inform users about adventure tourism opportunities
 
 
- Demo
-[View Live Demo](file:///C:/Users/debas/OneDrive/Desktop/tourism-website-main/index.html)
-
  Technologies Used
 - HTML5: For the structure of the website.
 - CSS3: For styling and layout.
@@ -57,9 +54,5 @@ Don't forget to give the project a star! Thanks again!
  License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-Project Link: 
-
----(file:///C:/Users/debas/OneDrive/Desktop/tourism-website-main/index.html)
 
 Feel free to modify the content to better fit your specific project details and personal information.
